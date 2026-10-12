@@ -86,9 +86,9 @@ Note: The reported AUC reflects the evaluated modeling task and should not be in
 
 # Technologies and Skills
 
-Machine Learning: Ensemble learning, weighted ensembles, stacking
-Statistical Analysis: Odds ratios, hypothesis testing
-Data Science: Feature engineering, data preprocessing, predictive modeling
-Model Evaluation: ROC-AUC, comparative model assessment, feature importance
-Domain: Healthcare analytics, epidemiological survey data, health disparities research
-Data Source: NHANES 2017–March 2020
+- Machine Learning: Ensemble learning, weighted ensembles, stacking
+- Statistical Analysis: Odds ratios, hypothesis testing
+- Data Science: Feature engineering, data preprocessing, predictive modeling
+- Model Evaluation: ROC-AUC, comparative model assessment, feature importance
+- Domain: Healthcare analytics, epidemiological survey data, health disparities research
+- Data Source: NHANES 2017–March 2020
